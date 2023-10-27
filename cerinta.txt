@@ -1,0 +1,9 @@
+> Cerinta:
+Sa se realizeze un set de functii pentru operatii pe siruri de numere intregi citite dintr-un fisier text.Numerele se vor citi din fisier, se vor stoca in memorie, apoi se va determina valoarea minima si maxima(care vor fi de asemenea stocate in memorie).Operatiile pe siruri cerute sunt:
+	1. Histograma valorilor;
+	2. Calculul mediei bazat pe histograma;
+	3. Calculul deviatiei standard bazat pe histograma;
+	4. Eliminarea din sir a valorilor care sunt in afara intervalului.
+Utilizatorul va alege o operatie dintr-un meniu de optiuni rezultatul va fi pastrat intr-un fisier.
+Programul va permite realizarea unei serii de operatii pe fisierul initial si pe rezultate intermediare.
+
